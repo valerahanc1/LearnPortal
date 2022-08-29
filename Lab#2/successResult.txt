@@ -1,0 +1,4 @@
+Site: mysql.com http response code : HTTP/2 200 
+Site: mapquest.com http response code : HTTP/2 200 
+Site: gnu.org http response code : HTTP/1.1 200 OK
+Site: msu.edu http response code : HTTP/2 200 

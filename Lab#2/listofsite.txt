@@ -1,0 +1,5 @@
+mysql.com
+mapquest.com
+gnu.org
+storify.com
+msu.edu
